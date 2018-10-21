@@ -25,6 +25,7 @@
 - [Feriados en Chile 2017](https://feriados-cl-api.herokuapp.com/): API con info de feriados en Chile año 2017.
 - [Feriados Legales en Chile](https://www.feriadosapp.com/api/): API sin restricciones y costos, que contiene todos los feriados legales de Chile.
 - [Turnos de Farmacia](http://datos.gob.cl/dataset/farmacias-en-chile): URL para obtener en formato JSON el listado de farmacias del país y sus turnos nocturnos legales, directamente desde FARMANET del Ministerio de Salud.
+- [Camara de diputados](http://opendata.camara.cl/): APIs que permiten el acceso a los antecedentes que se producen con ocasión de la tramitación de un proyecto de ley, información de los parlamentarios y leyes ya publicadas.
 
 ### Transporte
 - [BIP](https://www.npmjs.com/package/bip): Get balance of bip card (Chile) by scrapping http://www.tarjetabip.cl/
